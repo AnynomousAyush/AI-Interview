@@ -8,7 +8,7 @@ import Login from './Auth/Login';
 import SignUp from './Auth/SignUp';
 import Modal from "../components/Modal"; 
 import { UserContext } from '../context/userContext';
-import ProfileinfoCard from '../components/Cards/ProfileinfoCard';
+import ProfileinfoCard from '../components/Cards/ProfileInfoCard.jsx';
 
 
 const LandingPage = () => {
