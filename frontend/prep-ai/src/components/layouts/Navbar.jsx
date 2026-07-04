@@ -1,5 +1,5 @@
 import React from 'react'
-import ProfileinfoCard from '../Cards/ProfileinfoCard';
+import ProfileinfoCard from '../Cards/ProfileInfoCard';
 import { Link } from 'react-router-dom';
 
 const Navbar = () => {
@@ -11,7 +11,7 @@ const Navbar = () => {
                 Interview Prep AI
               </h2>
             </Link>
-            <ProfileinfoCard />
+            <ProfileInfoCard />
         </div>
     </div>
   )
